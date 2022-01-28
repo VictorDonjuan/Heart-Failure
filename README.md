@@ -1,4 +1,4 @@
-See the Jupyter Notebook for the full project
+[See the Jupyter Notebook for the full project](https://github.com/VictorDonjuan/Heart-Failure-Prediction/blob/main/Heart%20Failure%20Prediction%20Project.ipynb)
 
 # Heart Failure Prediction with Machine Learning: Overview
 
