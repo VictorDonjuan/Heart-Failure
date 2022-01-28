@@ -45,7 +45,7 @@ After that, we also checked the categorical features. For example, being male ma
 
 # Model Building and Results
 
-After checking the features, we proceed to model building. We tried with the following 5 baseline classifier models: Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Random Forests and Gradient Boosting. In the case of the KNN and SVM models, these got huge benefits from scaling the data with a standard scaler. After tuning the models, we obtained the following scores with four metrics:
+After checking the features, we proceed to model building. We tried with the following 5 baseline classifier models: Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Random Forests and Gradient Boosting. We randomly selected 80% of the data for training and 20% for evaluation. In the case of the KNN and SVM models, these got huge benefits from scaling the data with a standard scaler. After tuning the models, we obtained the following scores with four metrics:
 
 ![alt text](scores.JPG "Title")
 
